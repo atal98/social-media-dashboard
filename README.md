@@ -9,8 +9,7 @@ Ever heard of Frontend Mentor? It's this awesome platform that dishes out challe
 
 ## Demo
 
-link to demo
-(https://screenrec.com/share/SaC8reQcIm)
+![](social-media.gif)
 
 ## The challenge
 
