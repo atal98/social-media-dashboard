@@ -5,7 +5,7 @@ Ever heard of Frontend Mentor? It's this awesome platform that dishes out challe
 
 ## Preview
 
-![Design preview for the Social media dashboard with theme switcher coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Social media dashboard with theme switcher coding challenge](Preview.jpg)
 
 ## Demo
 
