@@ -1,5 +1,5 @@
 
-# Social Media Dashboard with Theme switcher challenge
+# Social Media Dashboard With Theme Switcher
 
 Ever heard of Frontend Mentor? It's a platform that dishes out challenges, daring you to flex your coding muscles. Well, I took one of their challenges head-on and crafted something pretty neat: a Social Media Dashboard with theme switcher. Using the materials and guidance they provided, along with a sprinkle of internet wisdom and references, I brought this project to life. It's a testament to the power of collaboration and learning, showing that with the right resources and a dash of creativity, anything is possible.
 
